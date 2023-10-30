@@ -23,8 +23,8 @@ icon: images/TUBAF_Logo_orig_RGB.jpg
 - matrix 
 - vector
 - truth value
-## Arithmetic?
--decimal fraction
+## Arithmetic
+- decimal fraction
 - square root / cube root
 ## Analysis
 - Equivalent
