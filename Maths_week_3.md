@@ -14,7 +14,7 @@ icon: images/TUBAF_Logo_orig_RGB.jpg
 
 ## Algebra
 - x squared / x cubed
-- $ \frac{x²x³} $
+- $ \frac x² x³ $
 - variable
 - Inverse 
 - Inverse Function 
