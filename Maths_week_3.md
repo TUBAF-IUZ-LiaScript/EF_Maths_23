@@ -12,4 +12,81 @@ icon: images/TUBAF_Logo_orig_RGB.jpg
 
 # Week 3
 
-
+## Algebra
+    - x squared / x cubed (x^2/x^3)
+    - variable
+    - Inverse 
+    - Inverse Function 
+    - transitivity 
+    - quantifier
+    - term
+    - matrix 
+    - vector
+    - truth value
+## Arithmetic?
+    -decimal fraction
+    - square root / cube root
+## Analysis
+    - Equivalent
+    - Even number 
+    - Integers 
+    -inequality
+    - More than 
+    - less than
+    - Natural Numbers 
+    - sequence
+    - Zero 
+    - Euler's number
+    - e to the power of x
+    - fundamental theorem of arithmetic
+## Number theory
+    - whole number
+    - prime number
+    - twin primes
+    - remainder 
+    - multiple
+## Graph theory
+    - vertex / node
+    - edge
+## Set theory
+    - Venn diagram
+    - union of sets
+    - cardinality of a set
+    - superset
+    - power set
+  -   
+## Probability theory
+    -estimate
+## Geometry
+    - two dimensional shapes
+    - three dimensional shapes
+    - octagon
+    - Cube
+    - decagon
+    - cylinder
+    - trigonometry
+    -classification of triangles
+    - 360 degree angle
+    - Flat 
+    - vertices
+    - faces
+    - edges
+    - volume---
+    - unit circle
+    - tangent
+    - symmetry
+    - surface area
+    - Heptagon 
+    - Geometric Shapes 
+    - Hexagon 
+    - Pentagon 
+    - Polygon  
+    - Shape
+    - right angle
+    - ray 
+    - parallelepiped
+    - origin
+## Topology 
+    - dimension
+    - Sphere
+    - Base
