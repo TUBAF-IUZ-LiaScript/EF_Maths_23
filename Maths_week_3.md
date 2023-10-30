@@ -15,6 +15,7 @@ icon: images/TUBAF_Logo_orig_RGB.jpg
 ## Algebra
 - x squared / x cubed
 - $ \frac x² x³ $
+- $ \boxed{\pi=\frac c d} $
 - variable
 - Inverse 
 - Inverse Function 
