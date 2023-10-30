@@ -13,7 +13,9 @@ icon: images/TUBAF_Logo_orig_RGB.jpg
 # Week 3
 
 ## Algebra
-- x squared / x cubed (x^2/x^3)
+- x squared / x cubed
+  - $ \frac{x²}/{x³} $
+
 - variable
 - Inverse 
 - Inverse Function 
