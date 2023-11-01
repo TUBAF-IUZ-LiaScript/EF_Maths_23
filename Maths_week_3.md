@@ -15,6 +15,7 @@ icon: images/TUBAF_Logo_orig_RGB.jpg
 [Math vocabulary](https://www.splashlearn.com/math-vocabulary/#)
 
 Question modes:
+
 - picture
 - definition/description
 - German translation
