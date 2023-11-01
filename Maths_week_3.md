@@ -12,6 +12,14 @@ icon: images/TUBAF_Logo_orig_RGB.jpg
 
 # Week 3
 
+[Math vocabulary](https://www.splashlearn.com/math-vocabulary/#)
+
+Question modes:
+- picture
+- definition/description
+- German translation
+- "find the odd one out"
+
 ## Algebra
 - x squared / x cubed
 - $ \frac x² x³ $
