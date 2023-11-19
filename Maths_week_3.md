@@ -68,16 +68,16 @@ $ \boxed{\frac {x²} {x³}} $
 - e to the power of x
 - fundamental theorem of arithmetic
 ## Number theory
-- whole number
-- prime number
-- twin primes
+- ![whole number](https://www.splashlearn.com/math-vocabulary/wp-content/uploads/2022/05/Whole-Numbers-1.png)
+- ![prime number](https://www.splashlearn.com/math-vocabulary/wp-content/uploads/2023/06/prime-numbre-table-2.webp)
+- twin primes $ \{3,5\}, \{5,7\}, \{11,13\} $
 - remainder 
 - multiple
 ## Graph theory
 - vertex / node
 - edge
 ## Set theory
-- Venn diagram
+- Venn diagram ![Venn](https://assets.serlo.org/legacy/6948_KhAg5EDciY.png)
 - union of sets
 - cardinality of a set
 - superset
@@ -109,7 +109,7 @@ $ \boxed{\frac {x²} {x³}} $
 - Pentagon 
 - Polygon  
 - Shape
-- right angle
+- right angle ![right angle](https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/right_angle_nflkuc.jpg)
 - ray 
 - parallelepiped
 - origin
