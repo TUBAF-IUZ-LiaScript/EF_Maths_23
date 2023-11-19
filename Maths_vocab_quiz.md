@@ -24,7 +24,7 @@ Good luck with the quiz!
 ## Questions Set theory
 
     {{0-1}}
-> This image depicts a _[[Venn]]_ diagram.
+> This image depicts a _[[ Venn ]]_ diagram.
 > ![Venn diagram](https://assets.serlo.org/legacy/6948_KhAg5EDciY.png)
 
     {{1-2}}
@@ -56,7 +56,7 @@ If you've got the hang of the vocabulary for set theory then continue with geome
 > ![right angle](https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/right_angle_nflkuc.jpg)
 
     {{1-2}}
-> Definition: A circle with a radius of 1 is a [[unit circle]].
+> Definition: A circle with a radius of 1 is a [[ unit circle ]].
 > ![unit circle](https://upload.wikimedia.org/wikipedia/commons/7/72/Sinus_und_Kosinus_am_Einheitskreis_1.svg)
 
     {{2-3}}
@@ -76,4 +76,4 @@ If you've got the hang of the vocabulary for set theory then continue with geome
 > [[ ]] cylinder
 
     {{4}}
-If you've got the hang of the vocabulary for set theory then give yourself a pat on the back.
+If you've got the hang of the vocabulary for set theory then give yourself a pat on the back ;-)
