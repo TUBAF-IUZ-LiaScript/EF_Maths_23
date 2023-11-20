@@ -125,3 +125,6 @@ K --> H
   J --> M(and more)
   D --> N(for the first time in 50 years)
 ```
+## Concept map LA
+
+![LA](/images/Concept_map_LA.jpg)
